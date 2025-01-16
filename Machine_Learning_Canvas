@@ -1,0 +1,14 @@
+## Machine Learning Canvas
+
+| **Section**            | **Description**                                                                                                                                                          |
+|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **PREDICTION TASK**     | Prédire la gravité des accidents de la route (accident grave ou non grave) en analysant des données d'incidents passés et des facteurs en temps réel.                    |
+| **DECISIONS**           | Aider à déterminer la priorité d’intervention des secours en fonction de la gravité prédites des accidents. Par exemple, envoyer des secours supplémentaires pour les accidents graves. |
+| **VALUE PROPOSITION**   | Offrir un système de prédiction pour les interventions d'urgence, permettant une prise de décision plus rapide et plus précise. Cela pourrait réduire le temps d'intervention, sauver des vies et optimiser l'allocation des ressources d'urgence. |
+| **DATA COLLECTION**     | Collecte de données historiques d'accidents (type d'accident, localisation, météo, conditions de la route), données en temps réel (météo, circulation), et d'autres facteurs comme le type de véhicules impliqués, l'heure de l'accident, etc. |
+| **DATA SOURCES**        | Données de police et de pompiers sur les accidents, capteurs de circulation, données GPS des véhicules, stations météorologiques publiques, systèmes de gestion du trafic en temps réel, applications de navigation. |
+| **IMPACT SIMULATION**   | Simulation de l'impact des prédictions de gravité sur les décisions d'intervention. Par exemple, évaluer comment les prévisions influencent les temps de réponse des secours et la gestion des ressources (ambulances, pompiers, etc.). |
+| **MAKING PREDICTIONS**  | Utilisation des prédictions pour prioriser les interventions d'urgence en fonction de l'évaluation de la gravité de l'accident. Cela permet aux opérateurs d'affecter plus rapidement les ressources aux accidents les plus graves. |
+| **MONITORING**          | Surveillance continue des performances des modèles, mise à jour des données et réévaluation périodique des prédictions. Mise en place d'un système de retour d’information pour améliorer les prédictions au fil du temps. |
+| **BUILDING MODELS**     | Construction de modèles prédictifs en utilisant des algorithmes comme la régression logistique, les forêts aléatoires (Random Forest) ou les réseaux de neurones. Ces modèles seront formés sur des données historiques pour identifier les patterns de gravité des accidents. |
+| **FEATURES**            | Localisation de l'accident, conditions météorologiques (pluie, neige, etc.), heure du jour, type de véhicule, nombre de personnes impliquées, type de blessure, etc.    |
