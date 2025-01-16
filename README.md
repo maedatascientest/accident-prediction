@@ -143,8 +143,3 @@ En combinant réentraînements réguliers, surveillance proactive, évaluations 
 
 En résumé, la gestion de la performance et des baisses de performance du modèle repose sur une approche rigoureuse et adaptable. L’évaluation continue, à la fois globale et ciblée, permet de suivre de près l’évolution du modèle dans des scénarios variés, assurant ainsi sa robustesse à long terme. En cas de dérive ou de perte de performance, un système d'alertes et de mesures correctives, comme le réentraînement et l'ajustement des paramètres, garantit une réactivité optimale. Cette méthode hybride, combinant prévention et réactivité, assure que le modèle reste performant, fiable et aligné avec les exigences opérationnelles et les changements de données, contribuant ainsi à une prise de décision éclairée et durable.
 
-# Machine Learning Canvas
-
-Consultez le [Machine Learning Canvas](Machine_Learning_Canvas.md) pour plus de détails.
-
-
